@@ -1,0 +1,11 @@
+
+@import url('gilroy-light-webfont.woff2');
+
+body {
+ margin: 0;
+ font-family: 'Gilroy', 'sans-serif'; 
+}
+
+p, blockquote{
+    font-size: .9em;
+}
