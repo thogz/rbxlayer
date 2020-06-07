@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <filter id="Rectangle_94" x="849" y="248" width="468" height="305" filterUnits="userSpaceOnUse">
+      <feOffset dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_96" x="849" y="551" width="468" height="305" filterUnits="userSpaceOnUse">
+      <feOffset dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_98" x="604" y="249" width="242" height="607" filterUnits="userSpaceOnUse">
+      <feOffset dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_95" x="849" y="244" width="468" height="72" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_97" x="849" y="547" width="468" height="72" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_99" x="604" y="245" width="242" height="72" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-ALL_CLOSED">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="ALL_CLOSED" data-name="ALL CLOSED" clip-path="url(#clip-ALL_CLOSED)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="1920" height="1080" fill="#121216"/>
+    <text id="It_m_" data-name="It m " transform="translate(1067.5 1079.5)" fill="#131217" stroke="#a7a7a7" stroke-width="1" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="16">It m </tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_94)">
+      <g id="Rectangle_94-2" data-name="Rectangle 94" transform="translate(858 248)" fill="#101013" stroke="#2e2e2e" stroke-width="1">
+        <rect width="450" height="281" stroke="none"/>
+        <rect x="0.5" y="0.5" width="449" height="280" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_96)">
+      <g id="Rectangle_96-2" data-name="Rectangle 96" transform="translate(858 551)" fill="#101013" stroke="#2e2e2e" stroke-width="1">
+        <rect width="450" height="281" stroke="none"/>
+        <rect x="0.5" y="0.5" width="449" height="280" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_98)">
+      <g id="Rectangle_98-2" data-name="Rectangle 98" transform="translate(613 249)" fill="#101013" stroke="#2e2e2e" stroke-width="1">
+        <rect width="224" height="583" stroke="none"/>
+        <rect x="0.5" y="0.5" width="223" height="582" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_95)">
+      <rect id="Rectangle_95-2" data-name="Rectangle 95" width="450" height="54" transform="translate(858 248)" fill="#1c1c21"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_97)">
+      <rect id="Rectangle_97-2" data-name="Rectangle 97" width="450" height="54" transform="translate(858 551)" fill="#1c1c21"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_99)">
+      <rect id="Rectangle_99-2" data-name="Rectangle 99" width="224" height="54" transform="translate(613 249)" fill="#1c1c21"/>
+    </g>
+    <text id="Listed_Groups" data-name="Listed Groups" transform="translate(858 262)" fill="#fff" font-size="25" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.02em" opacity="0.76"><tspan x="21.287" y="23">Listed </tspan><tspan y="23" fill="#2486b1">Groups</tspan></text>
+    <text id="Payouts_Made" data-name="Payouts Made" transform="translate(858 565)" fill="#fff" font-size="25" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.02em" opacity="0.76"><tspan x="18.075" y="23">Payouts </tspan><tspan y="23" fill="none">Made</tspan></text>
+    <text id="Listed_Groups-2" data-name="Listed Groups" transform="translate(622 262)" fill="#fff" font-size="25" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.02em" opacity="0.76"><tspan x="21.287" y="23">Listed </tspan><tspan y="23" fill="#2486b1">Groups</tspan></text>
+  </g>
+</svg>

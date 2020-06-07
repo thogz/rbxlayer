@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <filter id="Rectangle_33" x="557" y="262" width="323" height="562" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 150 150">
+      <image width="150" height="150" xlink:href="data:image/png;base64,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"/>
+    </pattern>
+    <filter id="Rectangle_72" x="893" y="262" width="471" height="324" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_46" x="893" y="593" width="471" height="231" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_32" x="1007" y="506" width="245" height="61" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1" x="-30" y="-25" width="1980" height="120" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-5"/>
+      <feFlood flood-opacity="0.38"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_5" x="-18" y="47" width="1956" height="63" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-6"/>
+      <feFlood flood-opacity="0.522"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_24" x="-30" y="-25" width="1980" height="120" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-7"/>
+      <feFlood flood-opacity="0.38"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_28" x="-18" y="47" width="1956" height="63" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-8"/>
+      <feFlood flood-opacity="0.522"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Cashout">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Cashout" clip-path="url(#clip-Cashout)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="1920" height="993" transform="translate(0 87)" fill="#121216"/>
+    <line id="Line_14" data-name="Line 14" x2="1790" transform="translate(65.5 1001.5)" fill="none" stroke="#474747" stroke-width="1"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_33)">
+      <rect id="Rectangle_33-2" data-name="Rectangle 33" width="305" height="544" transform="translate(566 268)" fill="#1a1a1e"/>
+    </g>
+    <text id="Group" transform="translate(598 637)" fill="#fff" font-size="50" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.02em" opacity="0.84"><tspan x="0" y="46">Group</tspan></text>
+    <text id="R_1_234" data-name="R$ 1,234" transform="translate(598 742)" fill="#1eaf2e" font-size="45" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.02em" opacity="0.65"><tspan x="0" y="41">R$ 1,234</tspan></text>
+    <g id="Image_1" data-name="Image 1" transform="translate(598 366)" stroke="#535353" stroke-width="1" fill="url(#pattern)">
+      <rect width="236" height="236" rx="16" stroke="none"/>
+      <rect x="0.5" y="0.5" width="235" height="235" rx="15.5" fill="none"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_72)">
+      <rect id="Rectangle_72-2" data-name="Rectangle 72" width="453" height="306" transform="translate(902 268)" fill="#1a1a1e"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_46)">
+      <rect id="Rectangle_46-2" data-name="Rectangle 46" width="453" height="213" transform="translate(902 599)" fill="#1a1a1e"/>
+    </g>
+    <text id="Cash_Out" data-name="Cash Out" transform="translate(1060 284)" fill="#066fad" font-size="30" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.02em"><tspan x="0" y="27">Cash Out</tspan></text>
+    <text id="Join_this_Group" data-name="Join this Group" transform="translate(607 291)" fill="#fff" font-size="30" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.02em" opacity="0.65"><tspan x="0" y="27">Join this </tspan><tspan y="27" fill="#00a2ff">Group</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_32)">
+      <g id="Rectangle_32-2" data-name="Rectangle 32" transform="translate(1016 512)" fill="#2486b1" stroke="#2d2d2d" stroke-width="1">
+        <rect width="227" height="43" stroke="none"/>
+        <rect x="0.5" y="0.5" width="226" height="42" fill="none"/>
+      </g>
+    </g>
+    <text id="By_username" data-name="By username" transform="translate(598 697)" fill="#ababab" font-size="20" font-family="Raleway-Thin, Raleway" font-weight="200" letter-spacing="0.02em"><tspan x="0" y="19">By</tspan><tspan y="19" xml:space="preserve" fill="#fff"> username</tspan></text>
+    <text id="Cash_Out-2" data-name="Cash Out" transform="translate(1079 519)" fill="#d2d2d2" font-size="23" font-family="Raleway-Thin, Raleway" font-weight="200" letter-spacing="0.02em"><tspan x="0" y="22">Cash Out</tspan></text>
+    <g id="TopBar">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1)">
+        <rect id="Rectangle_1-2" data-name="Rectangle 1" width="1920" height="60" fill="#101117"/>
+      </g>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="124" height="38" transform="translate(1630 10)" fill="#2486b1"/>
+      <text id="RESELLER" transform="translate(1692 35)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="-39.288" y="0">RESELLER</tspan></text>
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="124" height="38" transform="translate(1779 10)" fill="#d42e2e"/>
+      <text id="LOGIN" transform="translate(1841 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="-24.068" y="0">LOGIN</tspan></text>
+      <text id="Home" transform="translate(1074 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-22.698" y="0">Home</tspan></text>
+      <text id="Promocodes" transform="translate(1544 35)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-47.622" y="0">Promocodes</tspan></text>
+      <text id="RBXSTATION" transform="translate(126 37)" fill="#2486b1" font-size="26" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.3em"><tspan x="-108.641" y="0">RBXSTATION</tspan></text>
+      <text id="Earn" transform="translate(1164 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-16.917" y="0">Earn</tspan></text>
+      <text id="Cash_Out-3" data-name="Cash Out" transform="translate(1270 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-34.261" y="0">Cash Out</tspan></text>
+      <text id="Refferals" transform="translate(1399 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-33.162" y="0">Refferals</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_5)">
+        <rect id="Rectangle_5-2" data-name="Rectangle 5" width="1920" height="27" transform="translate(0 60)" fill="#2486b1"/>
+      </g>
+      <text id="Join_our_discord_for_daily_promo_codes." data-name="Join our discord for daily promo codes." transform="translate(960 79)" fill="#fff" font-size="17" font-family="Gilroy-Light, Gilroy" font-weight="300" opacity="0.88"><tspan x="-152.023" y="0">Join our discord for daily promo codes.</tspan></text>
+      <line id="Line_2" data-name="Line 2" y1="32" transform="translate(1211.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+      <line id="Line_3" data-name="Line 3" y1="32" transform="translate(1121.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+      <line id="Line_4" data-name="Line 4" y1="32" transform="translate(1333.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+      <line id="Line_5" data-name="Line 5" y1="32" transform="translate(1467.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_24)">
+        <rect id="Rectangle_24-2" data-name="Rectangle 24" width="1920" height="60" fill="#101117"/>
+      </g>
+      <rect id="Rectangle_25" data-name="Rectangle 25" width="124" height="38" transform="translate(1630 10)" fill="#2486b1"/>
+      <text id="RESELLER-2" data-name="RESELLER" transform="translate(1692 35)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="-39.288" y="0">RESELLER</tspan></text>
+      <rect id="Rectangle_26" data-name="Rectangle 26" width="124" height="38" transform="translate(1779 10)" fill="#d42e2e"/>
+      <text id="LOGIN-2" data-name="LOGIN" transform="translate(1841 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="-24.068" y="0">LOGIN</tspan></text>
+      <text id="Home-2" data-name="Home" transform="translate(1074 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-22.698" y="0">Home</tspan></text>
+      <text id="Promocodes-2" data-name="Promocodes" transform="translate(1544 35)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-47.622" y="0">Promocodes</tspan></text>
+      <text id="RBXSTATION-2" data-name="RBXSTATION" transform="translate(126 37)" fill="#e2e2e2" font-size="26" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.3em"><tspan x="-108.641" y="0">RBX</tspan><tspan y="0" fill="#2486b1">STATION</tspan></text>
+      <text id="Earn-2" data-name="Earn" transform="translate(1164 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-16.917" y="0">Earn</tspan></text>
+      <text id="Cash_Out-4" data-name="Cash Out" transform="translate(1270 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-34.261" y="0">Cash Out</tspan></text>
+      <text id="Refferals-2" data-name="Refferals" transform="translate(1399 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-33.162" y="0">Refferals</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_28)">
+        <rect id="Rectangle_28-2" data-name="Rectangle 28" width="1920" height="27" transform="translate(0 60)" fill="#2486b1"/>
+      </g>
+      <text id="Join_our_discord_for_daily_promo_codes.-2" data-name="Join our discord for daily promo codes." transform="translate(960 79)" fill="#fff" font-size="17" font-family="Gilroy-Light, Gilroy" font-weight="300" opacity="0.88"><tspan x="-152.023" y="0">Join our discord for daily promo codes.</tspan></text>
+      <line id="Line_15" data-name="Line 15" y1="32" transform="translate(1211.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+      <line id="Line_16" data-name="Line 16" y1="32" transform="translate(1121.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+      <line id="Line_17" data-name="Line 17" y1="32" transform="translate(1333.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+      <line id="Line_18" data-name="Line 18" y1="32" transform="translate(1467.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+    </g>
+    <text id="It_m_" data-name="It m " transform="translate(1067.5 1079.5)" fill="#131217" stroke="#a7a7a7" stroke-width="1" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="16">It m </tspan></text>
+    <text id="Robux_Amount" data-name="Robux Amount" transform="translate(942 445)" fill="#fff" font-size="18" font-family="Raleway-Thin, Raleway" font-weight="200" letter-spacing="0.02em" opacity="0.39"><tspan x="0" y="17">Robux Amount</tspan></text>
+    <line id="Line_23" data-name="Line 23" x1="352" transform="translate(943.5 392.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_24" data-name="Line 24" x1="352" transform="translate(943.5 477.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="_Payment_might_take_up_to_5_min_so_please_be_patient._If_you_didn_t_not_receive_your_payment_please_contact_support_through_our_discord._Thank_you_for_using_rbxstation." data-name=" Payment might take up to 5 min, so please be patient.
+
+ If you didn&apos;t not receive your payment please    contact support through our discord.Thank you for using rbxstation." transform="translate(927.5 622.5)" fill="#a5a5a5" font-size="17" font-family="Raleway-Thin, Raleway" font-weight="200"><tspan x="23.464" y="16" xml:space="preserve"> Payment might take up to </tspan><tspan y="16" fill="#fff">5 min</tspan><tspan y="16">, so please be </tspan><tspan x="172.843" y="36">patient.</tspan><tspan x="200" y="56"></tspan><tspan x="27.807" y="76" xml:space="preserve"> If you didn&apos;t not receive your payment please    </tspan><tspan x="62.121" y="96">contact support through our </tspan><tspan y="96" fill="#fff" text-decoration="underline">discord</tspan><tspan y="96">.</tspan><tspan x="200" y="116"></tspan><tspan x="85.395" y="136">Thank you for using </tspan><tspan y="136" fill="#2486b1">rbxstation</tspan><tspan y="136">.</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <filter id="Rectangle_1" x="-30" y="-25" width="1980" height="120" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.38"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_5" x="-18" y="47" width="1956" height="63" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-2"/>
+      <feFlood flood-opacity="0.522"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_24" x="-30" y="-25" width="1980" height="120" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-3"/>
+      <feFlood flood-opacity="0.38"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_54" x="1621" y="4" width="142" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_26" x="1770" y="4" width="142" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_28" x="-18" y="47" width="1956" height="63" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-6"/>
+      <feFlood flood-opacity="0.522"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_60" x="741" y="211" width="438" height="682" filterUnits="userSpaceOnUse">
+      <feOffset dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_25" x="850" y="746" width="199" height="82" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Sign_Up">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Sign_Up" data-name="Sign Up" clip-path="url(#clip-Sign_Up)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1)">
+      <rect id="Rectangle_1-2" data-name="Rectangle 1" width="1920" height="60" fill="#101117"/>
+    </g>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="124" height="38" transform="translate(1630 10)" fill="#2486b1"/>
+    <text id="RESELLER" transform="translate(1692 35)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="-39.288" y="0">RESELLER</tspan></text>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="124" height="38" transform="translate(1779 10)" fill="#d42e2e"/>
+    <text id="LOGIN" transform="translate(1841 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="-24.068" y="0">LOGIN</tspan></text>
+    <text id="Home" transform="translate(1074 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-22.698" y="0">Home</tspan></text>
+    <text id="Promocodes" transform="translate(1544 35)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-47.622" y="0">Promocodes</tspan></text>
+    <text id="RBXSTATION" transform="translate(126 37)" fill="#2486b1" font-size="26" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.3em"><tspan x="-108.641" y="0">RBXSTATION</tspan></text>
+    <text id="Earn" transform="translate(1164 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-16.917" y="0">Earn</tspan></text>
+    <text id="Cash_Out" data-name="Cash Out" transform="translate(1270 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-34.261" y="0">Cash Out</tspan></text>
+    <text id="Refferals" transform="translate(1399 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-33.162" y="0">Refferals</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_5)">
+      <rect id="Rectangle_5-2" data-name="Rectangle 5" width="1920" height="27" transform="translate(0 60)" fill="#2486b1"/>
+    </g>
+    <text id="Join_our_discord_for_daily_promo_codes." data-name="Join our discord for daily promo codes." transform="translate(960 79)" fill="#fff" font-size="17" font-family="Gilroy-Light, Gilroy" font-weight="300" opacity="0.88"><tspan x="-152.023" y="0">Join our discord for daily promo codes.</tspan></text>
+    <line id="Line_2" data-name="Line 2" y1="32" transform="translate(1211.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+    <line id="Line_3" data-name="Line 3" y1="32" transform="translate(1121.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+    <line id="Line_4" data-name="Line 4" y1="32" transform="translate(1333.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+    <line id="Line_5" data-name="Line 5" y1="32" transform="translate(1467.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_24)">
+      <rect id="Rectangle_24-2" data-name="Rectangle 24" width="1920" height="60" fill="#101117"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_54)">
+      <rect id="Rectangle_54-2" data-name="Rectangle 54" width="124" height="38" transform="translate(1630 10)" fill="#2486b1"/>
+    </g>
+    <text id="RESELLER-2" data-name="RESELLER" transform="translate(1692 35)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="-39.288" y="0">RESELLER</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_26)">
+      <rect id="Rectangle_26-2" data-name="Rectangle 26" width="124" height="38" transform="translate(1779 10)" fill="#d42e2e"/>
+    </g>
+    <text id="LOGIN-2" data-name="LOGIN" transform="translate(1841 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="-24.068" y="0">LOGIN</tspan></text>
+    <text id="Home-2" data-name="Home" transform="translate(1074 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-22.698" y="0">Home</tspan></text>
+    <text id="Promocodes-2" data-name="Promocodes" transform="translate(1544 35)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-47.622" y="0">Promocodes</tspan></text>
+    <text id="RBXSTATION-2" data-name="RBXSTATION" transform="translate(126 37)" fill="#fff" font-size="26" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.3em"><tspan x="-108.641" y="0">RBX</tspan><tspan y="0" fill="#43b5e6">STATION</tspan></text>
+    <text id="Earn-2" data-name="Earn" transform="translate(1164 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-16.917" y="0">Earn</tspan></text>
+    <text id="Cash_Out-2" data-name="Cash Out" transform="translate(1270 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-34.261" y="0">Cash Out</tspan></text>
+    <text id="How_to_Start" data-name="How  to Start" transform="translate(1406 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-48.908" y="0" xml:space="preserve">How  to Start</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_28)">
+      <rect id="Rectangle_28-2" data-name="Rectangle 28" width="1920" height="27" transform="translate(0 60)" fill="#2486b1"/>
+    </g>
+    <text id="Join_our_discord_for_daily_promo_codes.-2" data-name="Join our discord for daily promo codes." transform="translate(960 79)" fill="#fff" font-size="17" font-family="Gilroy-Light, Gilroy" font-weight="300" opacity="0.88"><tspan x="-152.023" y="0">Join our discord for daily promo codes.</tspan></text>
+    <line id="Line_15" data-name="Line 15" y1="32" transform="translate(1211.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+    <line id="Line_16" data-name="Line 16" y1="32" transform="translate(1121.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+    <line id="Line_17" data-name="Line 17" y1="32" transform="translate(1333.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+    <line id="Line_18" data-name="Line 18" y1="32" transform="translate(1476.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="1920" height="993" transform="translate(0 87)" fill="#121216"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_60)">
+      <rect id="Rectangle_60-2" data-name="Rectangle 60" width="420" height="658" transform="translate(750 211)" fill="#1a1a1e"/>
+    </g>
+    <text id="SIGN_UP-2" data-name="SIGN UP" transform="translate(835 228)" fill="#2486b1" font-size="40" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.02em" opacity="0.76"><tspan x="36.54" y="37">SIGN UP</tspan></text>
+    <text id="Hello_Friend_" data-name="Hello, Friend!" transform="translate(873 279)" fill="#d2d2d2" font-size="25" font-family="Raleway-Thin, Raleway" font-weight="200" letter-spacing="0.02em"><tspan x="1.125" y="24">Hello, Friend!</tspan></text>
+    <text id="Roblox_Username" data-name="Roblox Username" transform="translate(774 479)" fill="#fff" font-size="18" font-family="Raleway-Thin, Raleway" font-weight="200" letter-spacing="0.02em" opacity="0.39"><tspan x="0" y="17">Roblox Username</tspan></text>
+    <text id="Already_have_a_account_Login_in" data-name="Already have a account? Login in" transform="translate(816 832)" fill="#fff" font-size="18" font-family="Raleway-Thin, Raleway" font-weight="200" letter-spacing="0.02em" opacity="0.39"><tspan x="0" y="17">Already have a account?</tspan><tspan y="17" xml:space="preserve" text-decoration="underline"> Login in</tspan></text>
+    <text id="Email" transform="translate(774 544)" fill="#fff" font-size="18" font-family="Raleway-Thin, Raleway" font-weight="200" letter-spacing="0.02em" opacity="0.39"><tspan x="0" y="17">Email</tspan></text>
+    <text id="Password" transform="translate(774 609)" fill="#fff" font-size="18" font-family="Raleway-Thin, Raleway" font-weight="200" letter-spacing="0.02em" opacity="0.39"><tspan x="0" y="17">Password</tspan></text>
+    <text id="Confirm_Password" data-name="Confirm Password" transform="translate(774 674)" fill="#fff" font-size="18" font-family="Raleway-Thin, Raleway" font-weight="200" letter-spacing="0.02em" opacity="0.39"><tspan x="0" y="17">Confirm Password</tspan></text>
+    <line id="Line_21" data-name="Line 21" x1="352" transform="translate(773.5 317.5)" fill="none" stroke="#707070" stroke-width="1" opacity="0.42"/>
+    <line id="Line_22" data-name="Line 22" x1="352" transform="translate(775.5 511.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_27" data-name="Line 27" x1="352" transform="translate(773.5 576.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_25" data-name="Line 25" x1="352" transform="translate(775.5 641.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_26" data-name="Line 26" x1="352" transform="translate(775.5 706.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_25)">
+      <rect id="Rectangle_25-2" data-name="Rectangle 25" width="181" height="64" transform="translate(859 752)" fill="#2486b1"/>
+    </g>
+    <text id="SIGN_UP-3" data-name="SIGN UP" transform="translate(881 771)" fill="#bfbfbf" font-size="25" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.02em"><tspan x="19.962" y="23">SIGN UP</tspan></text>
+    <g id="Rectangle_59" data-name="Rectangle 59" transform="translate(805 343)" fill="none" stroke="#707070" stroke-width="1" opacity="0.74">
+      <rect width="311" height="91" stroke="none"/>
+      <rect x="0.5" y="0.5" width="310" height="90" fill="none"/>
+    </g>
+    <text id="This_is_only_for_creating_an_RBXSTATION.COM_account._We_will_never_ask_for_any_sensitive_account_information._All_passwords_are_securely_one-way_encrypted_and_are_unable_to_be_reversed." data-name="This is only for creating an RBXSTATION.COM account. We will never ask for any sensitive account information. All passwords are securely one-way encrypted and are unable to be reversed." transform="translate(814 350)" fill="#fff" font-size="14" font-family="Raleway-Thin, Raleway" font-weight="200" letter-spacing="0.02em" opacity="0.47"><tspan x="62.192" y="13">This is only for creating an </tspan><tspan x="10.644" y="28" fill="#16cfff">RBXSTATION.COM account.</tspan><tspan y="28" xml:space="preserve"> We will never </tspan><tspan x="3.693" y="43">ask for any sensitive account information. All </tspan><tspan x="4.323" y="58">passwords are securely one-way encrypted </tspan><tspan x="47.289" y="73">and are unable to be reversed.</tspan></text>
+  </g>
+</svg>

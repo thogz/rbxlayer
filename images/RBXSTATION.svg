@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="218" height="30" viewBox="0 0 218 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 26px;
+        font-family: Gilroy-Light, Gilroy;
+        font-weight: 300;
+        letter-spacing: 0.3em;
+      }
+
+      .cls-2 {
+        fill: #43b5e6;
+      }
+    </style>
+  </defs>
+  <text id="RBXSTATION" class="cls-1" transform="translate(109 24)"><tspan x="-108.641" y="0">RBX</tspan><tspan class="cls-2" y="0">STATION</tspan></text>
+</svg>

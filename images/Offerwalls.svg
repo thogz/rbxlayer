@@ -1,0 +1,299 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <filter id="Rectangle_1" x="-30" y="-25" width="1980" height="120" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.38"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_5" x="-18" y="47" width="1956" height="63" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-2"/>
+      <feFlood flood-opacity="0.522"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_24" x="-30" y="-25" width="1980" height="120" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-3"/>
+      <feFlood flood-opacity="0.38"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_54" x="1621" y="4" width="142" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_26" x="1770" y="4" width="142" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_28" x="-18" y="47" width="1956" height="63" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-6"/>
+      <feFlood flood-opacity="0.522"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_61" x="499" y="252" width="223" height="572" filterUnits="userSpaceOnUse">
+      <feOffset dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_73" x="499" y="126" width="223" height="137" filterUnits="userSpaceOnUse">
+      <feOffset dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_93" x="710" y="126" width="723" height="925" filterUnits="userSpaceOnUse">
+      <feOffset dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_65" x="529" y="177" width="170" height="55" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_74" x="526" y="626" width="170" height="55" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-11"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_70" x="526" y="683" width="170" height="55" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-12"/>
+      <feFlood flood-opacity="0.188"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_71" x="526" y="740" width="170" height="55" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-13"/>
+      <feFlood flood-opacity="0.188"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_67" x="516.5" y="431.5" width="189" height="66" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-14"/>
+      <feFlood flood-opacity="0.341"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_83" x="516.5" y="371.5" width="189" height="66" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-15"/>
+      <feFlood flood-opacity="0.341"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_82" x="516.5" y="310.5" width="189" height="66" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-16"/>
+      <feFlood flood-opacity="0.341"/>
+      <feComposite operator="in" in2="blur-16"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_75" x="728.5" y="180.5" width="673" height="165" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-17"/>
+      <feFlood flood-opacity="0.09"/>
+      <feComposite operator="in" in2="blur-17"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_76" x="728.5" y="340.5" width="673" height="165" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-18"/>
+      <feFlood flood-opacity="0.09"/>
+      <feComposite operator="in" in2="blur-18"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_77" x="728.5" y="500.5" width="673" height="165" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-19"/>
+      <feFlood flood-opacity="0.09"/>
+      <feComposite operator="in" in2="blur-19"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_78" x="728.5" y="820.5" width="673" height="165" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-20"/>
+      <feFlood flood-opacity="0.09"/>
+      <feComposite operator="in" in2="blur-20"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_79" x="728.5" y="660.5" width="673" height="165" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-21"/>
+      <feFlood flood-opacity="0.09"/>
+      <feComposite operator="in" in2="blur-21"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Offerwalls">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Offerwalls" clip-path="url(#clip-Offerwalls)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1)">
+      <rect id="Rectangle_1-2" data-name="Rectangle 1" width="1920" height="60" fill="#101117"/>
+    </g>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="124" height="38" transform="translate(1630 10)" fill="#2486b1"/>
+    <text id="RESELLER" transform="translate(1692 35)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="-39.288" y="0">RESELLER</tspan></text>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="124" height="38" transform="translate(1779 10)" fill="#d42e2e"/>
+    <text id="LOGIN" transform="translate(1841 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="-24.068" y="0">LOGIN</tspan></text>
+    <text id="Home" transform="translate(1074 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-22.698" y="0">Home</tspan></text>
+    <text id="Promocodes" transform="translate(1544 35)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-47.622" y="0">Promocodes</tspan></text>
+    <text id="RBXSTATION" transform="translate(126 37)" fill="#2486b1" font-size="26" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.3em"><tspan x="-108.641" y="0">RBXSTATION</tspan></text>
+    <text id="Earn" transform="translate(1164 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-16.917" y="0">Earn</tspan></text>
+    <text id="Cash_Out" data-name="Cash Out" transform="translate(1270 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-34.261" y="0">Cash Out</tspan></text>
+    <text id="Refferals" transform="translate(1399 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-33.162" y="0">Refferals</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_5)">
+      <rect id="Rectangle_5-2" data-name="Rectangle 5" width="1920" height="27" transform="translate(0 60)" fill="#2486b1"/>
+    </g>
+    <text id="Join_our_discord_for_daily_promo_codes." data-name="Join our discord for daily promo codes." transform="translate(960 79)" fill="#fff" font-size="17" font-family="Gilroy-Light, Gilroy" font-weight="300" opacity="0.88"><tspan x="-152.023" y="0">Join our discord for daily promo codes.</tspan></text>
+    <line id="Line_2" data-name="Line 2" y1="32" transform="translate(1211.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+    <line id="Line_3" data-name="Line 3" y1="32" transform="translate(1121.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+    <line id="Line_4" data-name="Line 4" y1="32" transform="translate(1333.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+    <line id="Line_5" data-name="Line 5" y1="32" transform="translate(1467.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_24)">
+      <rect id="Rectangle_24-2" data-name="Rectangle 24" width="1920" height="60" fill="#101117"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_54)">
+      <rect id="Rectangle_54-2" data-name="Rectangle 54" width="124" height="38" transform="translate(1630 10)" fill="#2486b1"/>
+    </g>
+    <text id="RESELLER-2" data-name="RESELLER" transform="translate(1692 35)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="-39.288" y="0">RESELLER</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_26)">
+      <rect id="Rectangle_26-2" data-name="Rectangle 26" width="124" height="38" transform="translate(1779 10)" fill="#d42e2e"/>
+    </g>
+    <text id="LOGIN-2" data-name="LOGIN" transform="translate(1841 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="-24.068" y="0">LOGIN</tspan></text>
+    <text id="Home-2" data-name="Home" transform="translate(1074 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-22.698" y="0">Home</tspan></text>
+    <text id="Promocodes-2" data-name="Promocodes" transform="translate(1544 35)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-47.622" y="0">Promocodes</tspan></text>
+    <text id="RBXSTATION-2" data-name="RBXSTATION" transform="translate(126 37)" fill="#fff" font-size="26" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.3em"><tspan x="-108.641" y="0">RBX</tspan><tspan y="0" fill="#43b5e6">STATION</tspan></text>
+    <text id="Earn-2" data-name="Earn" transform="translate(1164 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-16.917" y="0">Earn</tspan></text>
+    <text id="Cash_Out-2" data-name="Cash Out" transform="translate(1270 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-34.261" y="0">Cash Out</tspan></text>
+    <text id="How_to_Start" data-name="How  to Start" transform="translate(1406 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-48.908" y="0" xml:space="preserve">How  to Start</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_28)">
+      <rect id="Rectangle_28-2" data-name="Rectangle 28" width="1920" height="27" transform="translate(0 60)" fill="#2486b1"/>
+    </g>
+    <text id="Join_our_discord_for_daily_promo_codes.-2" data-name="Join our discord for daily promo codes." transform="translate(960 79)" fill="#fff" font-size="17" font-family="Gilroy-Light, Gilroy" font-weight="300" opacity="0.88"><tspan x="-152.023" y="0">Join our discord for daily promo codes.</tspan></text>
+    <line id="Line_15" data-name="Line 15" y1="32" transform="translate(1211.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+    <line id="Line_16" data-name="Line 16" y1="32" transform="translate(1121.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+    <line id="Line_17" data-name="Line 17" y1="32" transform="translate(1333.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+    <line id="Line_18" data-name="Line 18" y1="32" transform="translate(1476.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="1920" height="993" transform="translate(0 87)" fill="#121216"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_61)">
+      <g id="Rectangle_61-2" data-name="Rectangle 61" transform="translate(508 252)" fill="#1a1a1e" stroke="#212121" stroke-width="1">
+        <rect width="205" height="548" stroke="none"/>
+        <rect x="0.5" y="0.5" width="204" height="547" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_73)">
+      <g id="Rectangle_73-2" data-name="Rectangle 73" transform="translate(508 126)" fill="#1a1a1e" stroke="#212121" stroke-width="1">
+        <rect width="205" height="113" stroke="none"/>
+        <rect x="0.5" y="0.5" width="204" height="112" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_93)">
+      <g id="Rectangle_93-2" data-name="Rectangle 93" transform="translate(719 126)" fill="#1a1a1e" stroke="#212121" stroke-width="1">
+        <rect width="705" height="901" stroke="none"/>
+        <rect x="0.5" y="0.5" width="704" height="900" fill="none"/>
+      </g>
+    </g>
+    <text id="STOCKED_R_" data-name="STOCKED R$" transform="translate(531 135)" fill="#0e8f36" font-size="25" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.02em" opacity="0.76"><tspan x="4.775" y="23">STOCKED R$</tspan></text>
+    <text id="OFFER_WALL" data-name="OFFER WALL" transform="translate(532 259)" fill="#2486b1" font-size="25" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.02em" opacity="0.76"><tspan x="3.338" y="23">OFFER WALL</tspan></text>
+    <text id="Update_Your_Devices" data-name="Update Your Devices" transform="translate(1236 140)" fill="#d2d2d2" font-size="15" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.02em" opacity="0.67"><tspan x="6.493" y="14">Update Your Devices</tspan></text>
+    <text id="Order_By_:_Highest" data-name="Order By : Highest" transform="translate(917 140)" fill="#d2d2d2" font-size="15" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.02em" opacity="0.67"><tspan x="0" y="14">Order By : Highest</tspan></text>
+    <text id="Category_:_Free" data-name="Category : Free" transform="translate(746 140)" fill="#d2d2d2" font-size="15" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.02em" opacity="0.67"><tspan x="0" y="14">Category : Free</tspan></text>
+    <text id="Offerwall_1" data-name="Offerwall 1" transform="translate(552 330)" fill="#d2d2d2" font-size="18" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.02em" opacity="0.55"><tspan x="15.305" y="16">Offerwall 1</tspan></text>
+    <text id="Offerwall_2" data-name="Offerwall 2" transform="translate(552 389)" fill="#d2d2d2" font-size="18" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.02em" opacity="0.55"><tspan x="13.55" y="16">Offerwall 2</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_65)">
+      <rect id="Rectangle_65-2" data-name="Rectangle 65" width="152" height="37" transform="translate(538 183)" fill="#0e8f36"/>
+    </g>
+    <text id="R_1_0000" data-name="R$ 1,0000" transform="translate(555 191)" fill="#d2d2d2" font-size="18" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.02em"><tspan x="17.285" y="16">R$ 1,0000</tspan></text>
+    <text id="Offerwall_3" data-name="Offerwall 3" transform="translate(552 449)" fill="#d2d2d2" font-size="18" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.02em" opacity="0.55"><tspan x="13.442" y="16">Offerwall 3</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_74)">
+      <rect id="Rectangle_74-2" data-name="Rectangle 74" width="152" height="37" transform="translate(535 632)" fill="#2486b1"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_70)">
+      <rect id="Rectangle_70-2" data-name="Rectangle 70" width="152" height="37" transform="translate(535 689)" fill="#d42e2e"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_71)">
+      <rect id="Rectangle_71-2" data-name="Rectangle 71" width="152" height="37" transform="translate(535 746)" fill="#0e8f36"/>
+    </g>
+    <text id="Subcribe_for_1P" data-name="Subcribe for 1P" transform="translate(549 641)" fill="#bfbfbf" font-size="17" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.02em"><tspan x="2.143" y="16">Subcribe for 1P</tspan></text>
+    <text id="Follow_for_2P" data-name="Follow for 2P" transform="translate(549 698)" fill="#bfbfbf" font-size="17" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.02em"><tspan x="11.042" y="16">Follow for 2P</tspan></text>
+    <text id="Join_for_2P" data-name="Join for 2P" transform="translate(549 755)" fill="#bfbfbf" font-size="17" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.02em"><tspan x="19.636" y="16">Join for 2P</tspan></text>
+    <text id="Select_a_source_above_to_view_offers_from_that_offer_provider._Some_offers_credit_instantly_and_some_may_take_up_to_24_hours_to_credit_points_upon_completion." data-name="Select a source above to view offers from that offer provider. Some offers credit instantly, and some may take up to 24 hours to credit points upon completion." transform="translate(528 500)" fill="#fff" font-size="13" font-family="Raleway-Thin, Raleway" font-weight="200" letter-spacing="0.02em" opacity="0.47"><tspan x="5.845" y="12">Select a source above to </tspan><tspan x="6.105" y="27">view offers from that offer </tspan><tspan x="18.65" y="42">provider. Some offers </tspan><tspan x="5.228" y="57">credit instantly, and some </tspan><tspan x="2.485" y="72">may take up to </tspan><tspan y="72" fill="#34ff7f">24 hours</tspan><tspan y="72" xml:space="preserve"> to </tspan><tspan x="27.945" y="87">credit points upon </tspan><tspan x="47.192" y="102">completion.</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_67)">
+      <g id="Rectangle_67-2" data-name="Rectangle 67" transform="translate(524 435)" fill="#1a1a1e" stroke="#707070" stroke-width="1" opacity="0.16">
+        <rect width="174" height="51" stroke="none"/>
+        <rect x="0.5" y="0.5" width="173" height="50" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_83)">
+      <g id="Rectangle_83-2" data-name="Rectangle 83" transform="translate(524 375)" fill="#1a1a1e" stroke="#707070" stroke-width="1" opacity="0.16">
+        <rect width="174" height="51" stroke="none"/>
+        <rect x="0.5" y="0.5" width="173" height="50" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_82)">
+      <g id="Rectangle_82-2" data-name="Rectangle 82" transform="translate(524 314)" fill="#1a1a1e" stroke="#707070" stroke-width="1" opacity="0.16">
+        <rect width="174" height="51" stroke="none"/>
+        <rect x="0.5" y="0.5" width="173" height="50" fill="none"/>
+      </g>
+    </g>
+    <text id="Complete_one_of_these_offers_to_earn_points_Reminder_some_of_them_don_t_work." data-name="Complete one of these offers to earn points, Reminder some of them don&apos;t work." transform="translate(795 995)" fill="#fff" font-size="13" font-family="Raleway-Thin, Raleway" font-weight="200" letter-spacing="0.02em" opacity="0.47"><tspan x="38.842" y="12">Complete one of these offers to earn points, Reminder some of them don&apos;t work.</tspan></text>
+    <line id="Line_33" data-name="Line 33" x1="673" transform="translate(739.5 168.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_75)">
+      <g id="Rectangle_75-2" data-name="Rectangle 75" transform="translate(736 183)" fill="#1e1e23" stroke="#232323" stroke-width="1">
+        <rect width="658" height="150" stroke="none"/>
+        <rect x="0.5" y="0.5" width="657" height="149" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_76)">
+      <g id="Rectangle_76-2" data-name="Rectangle 76" transform="translate(736 343)" fill="#1e1e23" stroke="#232323" stroke-width="1">
+        <rect width="658" height="150" stroke="none"/>
+        <rect x="0.5" y="0.5" width="657" height="149" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_77)">
+      <g id="Rectangle_77-2" data-name="Rectangle 77" transform="translate(736 503)" fill="#1e1e23" stroke="#232323" stroke-width="1">
+        <rect width="658" height="150" stroke="none"/>
+        <rect x="0.5" y="0.5" width="657" height="149" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_78)">
+      <g id="Rectangle_78-2" data-name="Rectangle 78" transform="translate(736 823)" fill="#1e1e23" stroke="#232323" stroke-width="1">
+        <rect width="658" height="150" stroke="none"/>
+        <rect x="0.5" y="0.5" width="657" height="149" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_79)">
+      <g id="Rectangle_79-2" data-name="Rectangle 79" transform="translate(736 663)" fill="#1e1e23" stroke="#232323" stroke-width="1">
+        <rect width="658" height="150" stroke="none"/>
+        <rect x="0.5" y="0.5" width="657" height="149" fill="none"/>
+      </g>
+    </g>
+    <rect id="Rectangle_80" data-name="Rectangle 80" width="12" height="814" rx="6" transform="translate(1403 179)" fill="#121216"/>
+    <rect id="Rectangle_81" data-name="Rectangle 81" width="12" height="127" rx="6" transform="translate(1402.715 182.994)" fill="#0e8f36"/>
+  </g>
+</svg>

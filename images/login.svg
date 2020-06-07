@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <filter id="Rectangle_1" x="-30" y="-25" width="1980" height="120" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.38"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_5" x="-18" y="47" width="1956" height="63" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-2"/>
+      <feFlood flood-opacity="0.522"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_24" x="-30" y="-25" width="1980" height="120" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-3"/>
+      <feFlood flood-opacity="0.38"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_54" x="1621" y="4" width="142" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_26" x="1770" y="4" width="142" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_28" x="-18" y="47" width="1956" height="63" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-6"/>
+      <feFlood flood-opacity="0.522"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_61" x="741" y="266" width="438" height="572" filterUnits="userSpaceOnUse">
+      <feOffset dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_63" x="852" y="681" width="199" height="82" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Login">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Login" clip-path="url(#clip-Login)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1)">
+      <rect id="Rectangle_1-2" data-name="Rectangle 1" width="1920" height="60" fill="#101117"/>
+    </g>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="124" height="38" transform="translate(1630 10)" fill="#2486b1"/>
+    <text id="RESELLER" transform="translate(1692 35)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="-39.288" y="0">RESELLER</tspan></text>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="124" height="38" transform="translate(1779 10)" fill="#d42e2e"/>
+    <text id="LOGIN-2" data-name="LOGIN" transform="translate(1841 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="-24.068" y="0">LOGIN</tspan></text>
+    <text id="Home" transform="translate(1074 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-22.698" y="0">Home</tspan></text>
+    <text id="Promocodes" transform="translate(1544 35)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-47.622" y="0">Promocodes</tspan></text>
+    <text id="RBXSTATION" transform="translate(126 37)" fill="#2486b1" font-size="26" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.3em"><tspan x="-108.641" y="0">RBXSTATION</tspan></text>
+    <text id="Earn" transform="translate(1164 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-16.917" y="0">Earn</tspan></text>
+    <text id="Cash_Out" data-name="Cash Out" transform="translate(1270 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-34.261" y="0">Cash Out</tspan></text>
+    <text id="Refferals" transform="translate(1399 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-33.162" y="0">Refferals</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_5)">
+      <rect id="Rectangle_5-2" data-name="Rectangle 5" width="1920" height="27" transform="translate(0 60)" fill="#2486b1"/>
+    </g>
+    <text id="Join_our_discord_for_daily_promo_codes." data-name="Join our discord for daily promo codes." transform="translate(960 79)" fill="#fff" font-size="17" font-family="Gilroy-Light, Gilroy" font-weight="300" opacity="0.88"><tspan x="-152.023" y="0">Join our discord for daily promo codes.</tspan></text>
+    <line id="Line_2" data-name="Line 2" y1="32" transform="translate(1211.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+    <line id="Line_3" data-name="Line 3" y1="32" transform="translate(1121.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+    <line id="Line_4" data-name="Line 4" y1="32" transform="translate(1333.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+    <line id="Line_5" data-name="Line 5" y1="32" transform="translate(1467.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_24)">
+      <rect id="Rectangle_24-2" data-name="Rectangle 24" width="1920" height="60" fill="#101117"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_54)">
+      <rect id="Rectangle_54-2" data-name="Rectangle 54" width="124" height="38" transform="translate(1630 10)" fill="#2486b1"/>
+    </g>
+    <text id="RESELLER-2" data-name="RESELLER" transform="translate(1692 35)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="-39.288" y="0">RESELLER</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_26)">
+      <rect id="Rectangle_26-2" data-name="Rectangle 26" width="124" height="38" transform="translate(1779 10)" fill="#d42e2e"/>
+    </g>
+    <text id="LOGIN-3" data-name="LOGIN" transform="translate(1841 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="-24.068" y="0">LOGIN</tspan></text>
+    <text id="Home-2" data-name="Home" transform="translate(1074 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-22.698" y="0">Home</tspan></text>
+    <text id="Promocodes-2" data-name="Promocodes" transform="translate(1544 35)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-47.622" y="0">Promocodes</tspan></text>
+    <text id="RBXSTATION-2" data-name="RBXSTATION" transform="translate(126 37)" fill="#fff" font-size="26" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.3em"><tspan x="-108.641" y="0">RBX</tspan><tspan y="0" fill="#43b5e6">STATION</tspan></text>
+    <text id="Earn-2" data-name="Earn" transform="translate(1164 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-16.917" y="0">Earn</tspan></text>
+    <text id="Cash_Out-2" data-name="Cash Out" transform="translate(1270 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-34.261" y="0">Cash Out</tspan></text>
+    <text id="How_to_Start" data-name="How  to Start" transform="translate(1406 34)" fill="#fff" font-size="17" font-family="Roboto-Light, Roboto" font-weight="300" opacity="0.48"><tspan x="-48.908" y="0" xml:space="preserve">How  to Start</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_28)">
+      <rect id="Rectangle_28-2" data-name="Rectangle 28" width="1920" height="27" transform="translate(0 60)" fill="#2486b1"/>
+    </g>
+    <text id="Join_our_discord_for_daily_promo_codes.-2" data-name="Join our discord for daily promo codes." transform="translate(960 79)" fill="#fff" font-size="17" font-family="Gilroy-Light, Gilroy" font-weight="300" opacity="0.88"><tspan x="-152.023" y="0">Join our discord for daily promo codes.</tspan></text>
+    <line id="Line_15" data-name="Line 15" y1="32" transform="translate(1211.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+    <line id="Line_16" data-name="Line 16" y1="32" transform="translate(1121.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+    <line id="Line_17" data-name="Line 17" y1="32" transform="translate(1333.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+    <line id="Line_18" data-name="Line 18" y1="32" transform="translate(1476.5 14.5)" fill="none" stroke="#444" stroke-width="1"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="1920" height="993" transform="translate(0 87)" fill="#121216"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_61)">
+      <g id="Rectangle_61-2" data-name="Rectangle 61" transform="translate(750 266)" fill="#1a1a1e" stroke="#212121" stroke-width="1">
+        <rect width="420" height="548" stroke="none"/>
+        <rect x="0.5" y="0.5" width="419" height="547" fill="none"/>
+      </g>
+    </g>
+    <text id="LOGIN-4" data-name="LOGIN" transform="translate(835 283)" fill="#2486b1" font-size="40" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.02em" opacity="0.76"><tspan x="53.96" y="37">LOGIN</tspan></text>
+    <text id="Welcome_Back_" data-name="Welcome Back!" transform="translate(765 334)" fill="#d2d2d2" font-size="25" font-family="Raleway-Thin, Raleway" font-weight="200" letter-spacing="0.02em"><tspan x="93.188" y="24">Welcome Back!</tspan></text>
+    <text id="Forgot_Password_" data-name="Forgot Password?" transform="translate(1001 640)" fill="#fff" font-size="15" font-family="Raleway-Thin, Raleway" font-weight="200" letter-spacing="0.02em" opacity="0.77"><tspan x="0" y="14">Forgot Password?</tspan></text>
+    <text id="Don_t_have_a_account_Sign_Up" data-name="Don&apos;t have a account? Sign Up" transform="translate(827 776)" fill="#fff" font-size="18" font-family="Raleway-Thin, Raleway" font-weight="200" letter-spacing="0.02em" opacity="0.39"><tspan x="0" y="17">Don&apos;t have a account? </tspan><tspan y="17" text-decoration="underline">Sign Up</tspan></text>
+    <text id="Roblox_Username" data-name="Roblox Username" transform="translate(774 534)" fill="#fff" font-size="18" font-family="Raleway-Thin, Raleway" font-weight="200" letter-spacing="0.02em" opacity="0.39"><tspan x="0" y="17">Roblox Username</tspan></text>
+    <text id="Password" transform="translate(772 599)" fill="#fff" font-size="18" font-family="Raleway-Thin, Raleway" font-weight="200" letter-spacing="0.02em" opacity="0.39"><tspan x="0" y="17">Password</tspan></text>
+    <line id="Line_28" data-name="Line 28" x1="352" transform="translate(773.5 372.5)" fill="none" stroke="#707070" stroke-width="1" opacity="0.42"/>
+    <line id="Line_29" data-name="Line 29" x1="352" transform="translate(775.5 566.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_31" data-name="Line 31" x1="352" transform="translate(773.5 631.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_63)">
+      <rect id="Rectangle_63-2" data-name="Rectangle 63" width="181" height="64" transform="translate(861 687)" fill="#2486b1"/>
+    </g>
+    <text id="LOGIN-5" data-name="LOGIN" transform="translate(905 706)" fill="#bfbfbf" font-size="25" font-family="Gilroy-Light, Gilroy" font-weight="300" letter-spacing="0.02em"><tspan x="8.85" y="23">LOGIN</tspan></text>
+    <g id="Rectangle_62" data-name="Rectangle 62" transform="translate(805 398)" fill="none" stroke="#707070" stroke-width="1" opacity="0.74">
+      <rect width="311" height="91" stroke="none"/>
+      <rect x="0.5" y="0.5" width="310" height="90" fill="none"/>
+    </g>
+    <text id="This_is_only_for_logging_in_with_your_RBXSTATION.COM_account._If_you_do_not_have_an_account_yet_press_the_Sign_Up_button_below." data-name="This is only for logging in with your RBXSTATION.COM account. If you do not have an account yet, press the &quot;Sign Up&quot; button below." transform="translate(814 412)" fill="#fff" font-size="14" font-family="Raleway-Thin, Raleway" font-weight="200" letter-spacing="0.02em" opacity="0.47"><tspan x="34.612" y="13">This is only for logging in with your </tspan><tspan x="13.381" y="28" fill="#16cfff">RBXSTATION.COM account</tspan><tspan y="28" fill="#2486b1">.</tspan><tspan y="28" xml:space="preserve"> If you do not </tspan><tspan x="16.265" y="43">have an account yet, press the &quot;Sign Up&quot; </tspan><tspan x="102.428" y="58">button below.</tspan></text>
+  </g>
+</svg>
